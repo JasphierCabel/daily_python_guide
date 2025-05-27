@@ -1,0 +1,97 @@
+🔹 Phase 1: Basics (Days 1–60)
+Goal: Practice syntax, logic, and data structures.
+
+Day 5: Greeting Generator
+
+Day 10: Simple Calculator
+
+Day 15: Odd/Even Number Checker
+
+Day 20: Number Guessing Game
+
+Day 25: Multiplication Table Generator
+
+Day 30: Basic To-Do List (Console-based)
+
+Day 35: Word Counter
+
+Day 40: BMI Calculator
+
+Day 45: Grade Calculator
+
+Day 50: Rock-Paper-Scissors
+
+Day 55: Mad Libs Story Generator
+
+Day 60: Mini Quiz Game
+
+🔹 Phase 2: Intermediate (Days 61–150)
+Goal: Apply OOP and built-in modules.
+
+Day 65: Bank Account Class
+
+Day 70: Student Grading System (OOP)
+
+Day 80: Dice Rolling Simulator
+
+Day 90: Password Generator
+
+Day 100: Flashcard App
+
+Day 110: File Encryption Tool
+
+Day 120: Currency Converter (API or manual rates)
+
+Day 130: Contact Book (with save/load to JSON)
+
+Day 140: Alarm Clock
+
+Day 150: Command-line Chatbot
+
+🔹 Phase 3: Advanced (Days 151–250)
+Goal: Explore automation, scraping, and testing.
+
+Day 160: Website Title Scraper
+
+Day 170: File Organizer by Extension
+
+Day 180: Image Downloader from URLs
+
+Day 190: Birthday Reminder App
+
+Day 200: Weather App (API)
+
+Day 210: Simple Bug Tracker (with logs)
+
+Day 220: Test Calculator with unittest
+
+Day 230: Email Automation Script
+
+Day 240: YouTube Video Downloader
+
+Day 250: Habit Tracker (Console-based)
+
+🔹 Phase 4: Pro (Days 251–365)
+Goal: Build full-stack, data-driven, and ML-integrated apps.
+
+Day 260: Flask Blog (basic CRUD)
+
+Day 270: Django Notes App
+
+Day 280: Book Catalog with SQLite
+
+Day 290: Expense Tracker (DB + CLI)
+
+Day 300: COVID Data Visualizer (pandas + matplotlib)
+
+Day 310: Loan Eligibility Predictor (ML basics)
+
+Day 320: API Backend with Flask
+
+Day 330: Portfolio Website (Flask)
+
+Day 340: Basic Chat System (with sockets or Flask)
+
+Day 350: PDF Merger Tool
+
+Day 365: Capstone Project (Your choice: blog, ML app, API, game)
