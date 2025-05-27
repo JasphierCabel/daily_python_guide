@@ -1,0 +1,57 @@
+Phase 1: Basics (Days 1–60)
+Goal: Master syntax, data types, and control flow.
+
+Days 1–10: Variables, input/output, strings, numbers, comments
+
+Days 11–20: Lists, tuples, sets, dictionaries
+
+Days 21–30: Conditionals (if, elif, else), loops (for, while)
+
+Days 31–40: Functions, return values, arguments
+
+Days 41–50: File handling, exceptions
+
+Days 51–60: Mini projects (e.g., calculator, to-do app, number guesser)
+
+Phase 2: Intermediate (Days 61–150)
+Goal: Learn OOP, modules, and deeper built-ins.
+
+Days 61–80: Classes, objects, __init__, methods
+
+Days 81–100: Inheritance, polymorphism, encapsulation
+
+Days 101–110: Working with libraries: math, random, datetime
+
+Days 111–120: List comprehension, lambda, map/filter/reduce
+
+Days 121–130: JSON, CSV, and APIs with requests
+
+Days 131–150: Projects: text-based RPG, contact book, basic chatbot
+
+Phase 3: Advanced (Days 151–250)
+Goal: Work with frameworks, debugging, and external libraries.
+
+Days 151–170: Virtual environments, pip, modules, packages
+
+Days 171–190: Web scraping (BeautifulSoup, requests)
+
+Days 191–210: Automation (os, shutil, schedule)
+
+Days 211–230: Unit testing with unittest or pytest
+
+Days 231–250: Projects: file organizer, PDF/text extractor, reminder bot
+
+Phase 4: Pro Level (Days 251–365)
+Goal: Build real-world apps, learn data science or web dev.
+
+Days 251–270: Web development with Flask or Django
+
+Days 271–290: SQL with sqlite3, database integration
+
+Days 291–310: Data analysis with pandas, matplotlib
+
+Days 311–330: Basic ML with scikit-learn
+
+Days 331–350: API building and consuming
+
+Days 351–365: Final big project (portfolio site, blog engine, ML project)
